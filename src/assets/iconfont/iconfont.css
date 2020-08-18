@@ -1,0 +1,60 @@
+@font-face {font-family: "iconfont";
+  src: url('./iconfont.eot?t=1576140227728'); /* IE9 */
+  src: url('./iconfont.eot?t=1576140227728#iefix') format("embedded-opentype"), /* IE6-IE8 */
+  url("./iconfont.woff2?t=1576140227728") format('woff2'),
+  url('./iconfont.woff?t=1576140227728') format("woff"),
+  url('./iconfont.ttf?t=1576140227728') format("truetype") /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+ 
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-jilu:before {
+  content: "\e68f";
+}
+
+.icon-caozuoxialatubiao:before {
+  content: "\e7bf";
+}
+
+.icon-GroupCopy:before {
+  content: "\e63e";
+}
+
+.icon-jilu1:before {
+  content: "\e666";
+}
+
+.icon-jilu2:before {
+  content: "\e63f";
+}
+
+.icon-jilu3:before {
+  content: "\e502";
+}
+
+.icon-xuexi:before {
+  content: "\e522";
+}
+
+.icon-xuexi1:before {
+  content: "\e503";
+}
+.icon-xiangxiajiantou:before {
+  content: "\e65e";
+}
+
+.icon-xiangxiajiantou1:before {
+  content: "\e658";
+}
+
+.icon-xiangxiajiantou2:before {
+  content: "\e62b";
+}
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>返回</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="课程-搜索输入状态" transform="translate(-24.000000, -62.000000)" fill="#FFFFFF">
+            <g id="icon_back" transform="translate(24.000000, 62.000000)">
+                <rect id="Rectangle-3" opacity="0" transform="translate(22.000000, 22.000000) scale(-1, 1) translate(-22.000000, -22.000000) " x="0" y="0" width="44" height="44"></rect>
+                <path d="M12.6457745,8.59565995 C11.7847418,7.77310299 11.7847418,6.43947467 12.6457745,5.61691772 C13.5068072,4.79436076 14.902817,4.79436076 15.7638497,5.61691772 L31.3542255,20.5106289 C32.2152582,21.3331858 32.2152582,22.6668142 31.3542255,23.4893711 L15.7638497,38.3830823 C14.902817,39.2056392 13.5068072,39.2056392 12.6457745,38.3830823 C11.7847418,37.5605253 11.7847418,36.226897 12.6457745,35.4043401 L26.6771127,22 L12.6457745,8.59565995 Z" id="形状" fill-rule="nonzero" transform="translate(22.000000, 22.000000) scale(-1, 1) translate(-22.000000, -22.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

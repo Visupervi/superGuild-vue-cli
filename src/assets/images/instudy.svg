@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="45px" viewBox="0 0 81 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>mdpi/编组 7备份 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="92.6197676%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FF979B" offset="0%"></stop>
+            <stop stop-color="#F7625E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="92.6197676%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#FF979B" offset="0%"></stop>
+            <stop stop-color="#F7625E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="92.6197676%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#FF979B" offset="0%"></stop>
+            <stop stop-color="#F7625E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="课程中心" transform="translate(-231.000000, -697.000000)">
+            <g id="编组-7备份-2" transform="translate(231.000000, 697.000000)">
+                <g id="编组-13">
+                    <path d="M0,6 L69.6068576,6 C71.2637118,6 72.6068576,7.34314575 72.6068576,9 C72.6068576,9.12287273 72.5993087,9.24562941 72.5842537,9.36757635 L68.18523,45 L68.18523,45 L0,45 L0,6 Z" id="路径-11备份-2" fill="url(#linearGradient-1)" opacity="0.349609375"></path>
+                    <path d="M0,0 L77.5610284,0 C79.2178826,-1.63662682e-15 80.5610284,1.34314575 80.5610284,3 C80.5610284,3.1361903 80.5517545,3.27222254 80.5332711,3.40715275 L76.0127652,36.4071527 C75.8092545,37.8927949 74.5400388,39 73.0405225,39 L0,39 L0,39 L0,0 Z" id="路径-11备份" fill="url(#linearGradient-2)" opacity="0.553083147"></path>
+                    <path d="M0,5 L72.3581416,5 C74.5672806,5 76.3581416,6.790861 76.3581416,9 C76.3581416,9.19778944 76.3434714,9.39530648 76.3142517,9.59092568 L72.4306217,35.5909257 C72.1379776,37.5501101 70.4554316,39 68.4745116,39 L0,39 L0,39 L0,5 Z" id="路径-11" fill="url(#linearGradient-3)"></path>
+                </g>
+                <text id="进行中" font-family="PingFangSC-Regular, PingFang SC" font-size="24" font-weight="normal" line-spacing="36" fill="#FFFFFF">
+                    <tspan x="2" y="28">进行中</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

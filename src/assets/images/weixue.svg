@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="95px" height="39px" viewBox="0 0 95 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>编组 8备份</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="课程中心第二版" transform="translate(-49.000000, -637.000000)">
+            <g id="编组-8备份" transform="translate(49.000000, 637.000000)">
+                <path d="M0,0 L95,0 L95,24.0688382 C95,28.4490979 91.4490979,32 87.0688382,32 L0,32 L0,32 L0,0 Z" id="矩形" fill="#0181FF"></path>
+                <text id="未学" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                    <tspan x="38" y="27">未学</tspan>
+                </text>
+                <polygon id="路径-3" fill="#263BA8" points="0 32 7.25 38.1690134 7 32"></polygon>
+                <g id="play-circle" transform="translate(6.000000, 6.000000)" fill-rule="nonzero">
+                    <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="20" height="20"></rect>
+                    <path d="M10,1.25 C5.16796875,1.25 1.25,5.16796875 1.25,10 C1.25,14.8320312 5.16796875,18.75 10,18.75 C14.8320312,18.75 18.75,14.8320312 18.75,10 C18.75,5.16796875 14.8320312,1.25 10,1.25 Z M10,17.265625 C5.98828125,17.265625 2.734375,14.0117187 2.734375,10 C2.734375,5.98828125 5.98828125,2.734375 10,2.734375 C14.0117187,2.734375 17.265625,5.98828125 17.265625,10 C17.265625,14.0117187 14.0117187,17.265625 10,17.265625 Z" id="形状" fill="#FFFFFF"></path>
+                    <path d="M14.0507812,9.74804688 L8.26757812,5.54882812 C8.06054688,5.3984375 7.7734375,5.54492188 7.7734375,5.80078125 L7.7734375,14.1992188 C7.7734375,14.4550781 8.0625,14.5996094 8.26757812,14.4511719 L14.0507812,10.2519531 C14.2226562,10.1269531 14.2226562,9.87304688 14.0507812,9.74804688 Z M9.01953125,12.3652344 L9.01953125,7.63476562 L12.2753906,10 L9.01953125,12.3652344 L9.01953125,12.3652344 Z" id="形状" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

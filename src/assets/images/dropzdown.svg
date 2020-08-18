@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>下拉</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="课程中心第二版" transform="translate(-685.000000, -244.000000)">
+            <g id="icon_back" transform="translate(707.000000, 266.000000) scale(1, -1) rotate(90.000000) translate(-707.000000, -266.000000) translate(685.000000, 244.000000)">
+                <rect id="Rectangle-3" transform="translate(22.000000, 22.000000) scale(-1, 1) translate(-22.000000, -22.000000) " x="0" y="0" width="44" height="44"></rect>
+                <path d="M16.3874647,14.1150941 C15.8708451,13.6312371 15.8708451,12.8467498 16.3874647,12.3628928 C16.9040843,11.8790357 17.7416902,11.8790357 18.2583098,12.3628928 L27.6125353,21.1238993 C28.1291549,21.6077564 28.1291549,22.3922436 27.6125353,22.8761007 L18.2583098,31.6371072 C17.7416902,32.1209643 16.9040843,32.1209643 16.3874647,31.6371072 C15.8708451,31.1532502 15.8708451,30.3687629 16.3874647,29.8849059 L24.8062676,22 L16.3874647,14.1150941 Z" id="形状" fill="#999999" fill-rule="nonzero" transform="translate(22.000000, 22.000000) scale(-1, 1) translate(-22.000000, -22.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
